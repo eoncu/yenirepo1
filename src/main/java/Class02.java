@@ -12,6 +12,7 @@ public class Class02 {
         //v4 calısması
         //gitHub değisiklikleri
         //localden sevgiler...
+        //ben geldim IT
 
 
 
