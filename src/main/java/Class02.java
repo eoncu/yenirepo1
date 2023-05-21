@@ -11,6 +11,7 @@ public class Class02 {
         //v3 calışmaları
         //v4 calısması
         //gitHub değisiklikleri
+        //localden sevgiler...
 
 
 
