@@ -10,6 +10,8 @@ public class Class01 {
         System.out.println(x+y+z);
         //V3
         System.out.println("v3 kodları");
+        //V4
+        System.out.println("version 4 çalışmaları");
 
 
 
