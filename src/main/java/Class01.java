@@ -5,6 +5,10 @@ public class Class01 {
        int y = 2;
         System.out.println(x+y);
         System.out.println("version 1 için işlemler tamam!");
+// version 2 çalışmları
+        int z=4;
+        System.out.println(x+y+z);
+
 
 
 
