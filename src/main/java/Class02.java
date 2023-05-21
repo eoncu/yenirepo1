@@ -5,6 +5,7 @@ public class Class02 {
         //v2 uzerine
         System.out.println("v3 kodları");//v3
         //v4 kısa yoldan commit
+        //v5 kısa yoldan commit
 
 
 
