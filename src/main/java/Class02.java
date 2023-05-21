@@ -10,6 +10,7 @@ public class Class02 {
         //v7 kodları
         //v3 calışmaları
         //v4 calısması
+        //gitHub değisiklikleri
 
 
 
