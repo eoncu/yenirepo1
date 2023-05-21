@@ -3,6 +3,7 @@ public class Class02 {
         //v1 çalışmalarım...
         //v1 calışmalarım
         //v2 uzerine
+        System.out.println("v3 kodları");//v3
 
 
 
